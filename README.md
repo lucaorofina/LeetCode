@@ -1,2 +1,2 @@
 # LeetCode
-Practicing and uploading LeetCode solutions from CLI
+Practicing and uploading my LeetCode solutions using GitHub workflow to create files for each problem and push the code into my repository.
